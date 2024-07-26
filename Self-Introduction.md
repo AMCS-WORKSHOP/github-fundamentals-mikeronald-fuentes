@@ -10,3 +10,8 @@
 - 🖥️ **Programming Languages:**
   - Python 🐍
   - Java ☕
+
+## Projects
+- 🔗 [Java Interpreter](https://github.com/mikeronald-fuentes/Prog-lang.git) - This is a interpreter coded using java.
+- 🔗 [blokcNote](https://github.com/mikeronald-fuentes/IE-Final-project.git) - This is a note app powered by solana blockchain network.
+- 🔗 [SmartSync](https://github.com/mikeronald-fuentes/SmartSync-Automated-PowerPoint-Generator.git) - Automates generation of powerpoint presentation.
