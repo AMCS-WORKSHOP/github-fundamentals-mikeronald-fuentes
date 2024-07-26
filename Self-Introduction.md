@@ -19,3 +19,11 @@
 ## Find Me Around the Web 🌐
 - 💼 [LinkedIn](https://www.linkedin.com/in/mike-ronald-fuentes-4ba7582a6/)
 - 📧 [Email](mailto:mronaldfuentes@gmail.com)
+
+## Fun Facts 🎉
+- 🎵 Music lover
+- 🎮 Gamer
+- 🎥 Anime lover
+
+## Let's Connect!
+Feel free to reach out to me for collaborations, networking, or just to say hi! 😊
